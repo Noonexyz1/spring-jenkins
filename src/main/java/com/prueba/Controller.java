@@ -8,7 +8,7 @@ public class Controller {
 
     @GetMapping("/saludo")
     public String saludo() {
-        return "Hola Jenkins";
+        return "Hello Polled Builds";
     }
 }
 
