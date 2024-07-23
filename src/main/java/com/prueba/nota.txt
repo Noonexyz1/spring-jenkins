@@ -7,3 +7,5 @@ hize que jenkins pregunte a mi repo de github cada cierto tiempo para que el mis
 configure los archivos bat para que jenkis solamente los ejecute
 jenkins no me dejaba poner los procesos en segundo plano pero solamente modifique unos valores el el archivo
  start-jar.bat y ya quedo
+
+los comandos se deben ejecutar como superusuario o administrador del so
